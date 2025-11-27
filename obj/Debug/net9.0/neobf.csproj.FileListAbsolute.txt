@@ -1,0 +1,14 @@
+/Users/genchoxd/Documents/Desktop/NeoBF/bin/Debug/net9.0/neobf
+/Users/genchoxd/Documents/Desktop/NeoBF/bin/Debug/net9.0/neobf.deps.json
+/Users/genchoxd/Documents/Desktop/NeoBF/bin/Debug/net9.0/neobf.runtimeconfig.json
+/Users/genchoxd/Documents/Desktop/NeoBF/bin/Debug/net9.0/neobf.dll
+/Users/genchoxd/Documents/Desktop/NeoBF/bin/Debug/net9.0/neobf.pdb
+/Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/neobf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/neobf.AssemblyInfoInputs.cache
+/Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/neobf.AssemblyInfo.cs
+/Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/neobf.csproj.CoreCompileInputs.cache
+/Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/neobf.dll
+/Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/refint/neobf.dll
+/Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/neobf.pdb
+/Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/neobf.genruntimeconfig.cache
+/Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/ref/neobf.dll
