@@ -12,3 +12,4 @@
 /Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/neobf.pdb
 /Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/neobf.genruntimeconfig.cache
 /Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/ref/neobf.dll
+/Users/genchoxd/Documents/Desktop/NeoBF/obj/Debug/net9.0/neobf.sourcelink.json

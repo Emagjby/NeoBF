@@ -1,6 +1,7 @@
 ﻿using NeoBF.AST;
 using NeoBF.Lexer;
 using NeoBF.Parsing;
+using NeoBF.Preprocessing;
 
 namespace NeoBF;
 
@@ -11,8 +12,12 @@ public class Program
         // Read file at path sent
         var source = File.ReadAllText(args[0]);
 
+        // Preprocess source
+        var preprocessor = new Preprocessor(source);
+        var preprocessed = preprocessor.Preprocess();
+
         // Tokenize source
-        var tokenizer = new Tokenizer(source);
+        var tokenizer = new Tokenizer(preprocessed);
         var tokens = tokenizer.Tokenize();
 
         // Generate AST Nodes from tokens list

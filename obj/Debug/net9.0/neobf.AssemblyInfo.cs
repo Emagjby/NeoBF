@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("neobf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67fca60fc2a7fb87803c1cc0144d20f750c92688")]
 [assembly: System.Reflection.AssemblyProductAttribute("neobf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("neobf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
